@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "colors": "~0.6.0-1",
-    "esprima": "~1.2.0",
-    "falafel": "~1.1.0",
+    "esprima": "~4.0.0",
+    "falafel": "~2.1.0",
     "commander": "~2.2.0"
   },
   "devDependencies": {
